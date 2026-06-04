@@ -31,7 +31,7 @@ medconnect-db/
 
 > Abra o arquivo `MedMedico_DIAGRAMA.xml` no [draw.io](https://draw.io) para visualizar e editar o diagrama completo.
 
-![Diagrama DER – MedConnect](diagrama_der.png)
+![Diagrama DER – MedConnect](diagrama_der.png.png)
 
 ---
 
